@@ -197,3 +197,39 @@ By completing this assignment, you will:
 **Total: 50 points**
 
 Good luck! This assignment prepares you for the main Shannon Information Theory assignment where you'll implement n-gram models and text generation using similar preprocessing techniques.
+
+---
+
+## 🖼️ Demonstration Screenshots
+
+### 1) Flask Server Running
+![Flask Server Running](Screenshot1.png)
+
+### 2) Web Application Interface
+![Web Application Interface](Screenshot2.png)
+
+### 3) Example Analysis Result (Alice in Wonderland)
+![Example Analysis Result](Screenshot3.png)
+
+### 4) Example Analysis Result (Pride and Prejudice)
+![Example Analysis Result - Pride and Prejudice](Screenshot1.png)
+
+---
+
+## 🔗 Example URLs Tested
+- https://www.gutenberg.org/files/1342/1342-0.txt  *(Pride and Prejudice)*
+- https://www.gutenberg.org/files/84/84-0.txt      *(Frankenstein)*
+- https://www.gutenberg.org/files/11/11-0.txt      *(Alice in Wonderland)*
+- https://www.gutenberg.org/files/2701/2701-0.txt  *(Moby Dick)*
+
+---
+
+## ✅ Submission Info
+- **Student:** Harsha Lolabattu  
+- **Repository:** https://github.com/HarshaLolabattu/scaffolding3_startup  
+- **Endpoints implemented:** `GET /health`, `POST /api/clean`, `POST /api/analyze`  
+- **How to run:**
+  ```bash
+  pip install -r requirements.txt
+  python app.py
+  # open http://localhost:5000
