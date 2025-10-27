@@ -203,7 +203,7 @@ Good luck! This assignment prepares you for the main Shannon Information Theory 
 ## 🖼️ Demonstration Screenshots
 
 ### 1) Flask Server Running
-![Flask Server Running](Screenshot1.png)
+![Flask Server Running](Screenshot 4.png)
 
 ### 2) Web Application Interface
 ![Web Application Interface](Screenshot2.png)
@@ -212,7 +212,7 @@ Good luck! This assignment prepares you for the main Shannon Information Theory 
 ![Example Analysis Result](Screenshot3.png)
 
 ### 4) Example Analysis Result (Pride and Prejudice)
-![Example Analysis Result - Pride and Prejudice](Screenshot1.png)
+![Example Analysis Result - Pride and Prejudice](Screenshot 1.png)
 
 ---
 
